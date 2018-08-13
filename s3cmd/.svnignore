@@ -1,0 +1,8 @@
+## Run 'svn propset svn:ignore -F .svnignore .' after you change this list
+*.pyc
+tst.*
+MANIFEST
+dist
+build
+.*.swp
+s3cmd.1.gz
